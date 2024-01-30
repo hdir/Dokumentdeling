@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="slå opp"
+    id="id-dae0c9f67176481fb5d9afa94b81c0a9">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-0d22368177ed48c9a650b846c59aea2d.xml#id-0d22368177ed48c9a650b846c59aea2d"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-f26daf88bde341efa2c2a0e120881da9.xml#id-f26daf88bde341efa2c2a0e120881da9"/>
+</archimate:ServingRelationship>
