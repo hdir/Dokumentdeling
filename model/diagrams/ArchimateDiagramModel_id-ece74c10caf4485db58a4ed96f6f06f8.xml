@@ -114,7 +114,7 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="276"
+        x="216"
         y="228"
         width="120"
         height="55"/>
@@ -270,7 +270,7 @@
           href="ServingRelationship_id-32f4199d49fe430ab8af9385d4c138d8.xml#id-32f4199d49fe430ab8af9385d4c138d8"/>
     </sourceConnections>
     <bounds
-        x="276"
+        x="216"
         y="324"
         width="120"
         height="73"/>
@@ -287,7 +287,7 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="120"
+        x="60"
         y="324"
         width="120"
         height="73"/>
