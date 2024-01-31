@@ -1,12 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ITI-38 / ITI-39"
-    id="id-df1fee9e6beb4455b1b08c145712f8a1">
+    id="id-5cf6b0e1ac6b4eac90088e7c6923c24a">
   <source
       xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-e82f71d1031d495f8c3860ec2fbee117.xml#id-e82f71d1031d495f8c3860ec2fbee117"/>
+      href="ApplicationService_id-a45a25c24013477ebf051ab40f129c48.xml#id-a45a25c24013477ebf051ab40f129c48"/>
   <target
       xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-499c94b183f14dd1a9c792568f6ae5f0.xml#id-499c94b183f14dd1a9c792568f6ae5f0"/>
+      href="ApplicationService_id-a45a25c24013477ebf051ab40f129c48.xml#id-a45a25c24013477ebf051ab40f129c48"/>
 </archimate:ServingRelationship>
