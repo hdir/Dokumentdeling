@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Konsument"
+    name="Produsent"
     id="id-cc7d317a9e1446fd85a30ddc9f1d3f89">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
