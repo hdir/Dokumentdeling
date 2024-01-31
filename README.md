@@ -4,8 +4,8 @@ Samarbeidsområde for Helsedirektoratets arbeid med videreutvikling av referanse
 
 ### Modell for tjenestesammensetning konsument
 
-![Konsument](docs\imag\konsument.png)
+![Konsument](docs/img/konsument.png)  
 
 ### Modell for tjenestesammensetning produsent
 
-![Produsent](docs\img\produsent.png)
+![Produsent](docs/img/produsent.png)  
