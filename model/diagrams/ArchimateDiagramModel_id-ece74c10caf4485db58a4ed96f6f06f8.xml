@@ -194,8 +194,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="708"
-        y="192"
+        x="696"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -245,8 +245,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="708"
-        y="120"
+        x="696"
+        y="192"
         width="120"
         height="55"/>
     <archimateElement
