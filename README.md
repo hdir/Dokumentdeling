@@ -12,19 +12,4 @@ Samarbeidsområde for Helsedirektoratets arbeid med videreutvikling av referanse
 
 ### Konsept 1-5
 
-Liten grad av variasjon.  
-
-RHF1  
-![RHF1](docs/img/RHF1.png)  
-
-RHF2  
-![RHF2](docs/img/RHF2.png)  
-
-Fellesskap avtalespesialist  
-![Avtalespesialist](docs/img/avtalespesialist.png)  
-
-Leverandør leverer registertjeneste  
-![Leverandør](docs/img/leverandor.png)  
-
-Nasjonale tjenester  
-![Nasjonale tjenester](docs/img/nasjonal.png)  
+En oversikt over konseptene kan vises i [pdf rapporten](https://github.com/Direktoratet-for-e-helse/dokumentdeling-archi/blob/gh-pages/Dokumentdeling.pdf), eller på den automatisk genererte [html siden](https://direktoratet-for-e-helse.github.io/dokumentdeling-archi/). 
