@@ -1,6 +1,8 @@
 name: Archi-report-generation
 
 on:
+  push:
+    branches: [master]
   workflow_dispatch:
 
 jobs:
