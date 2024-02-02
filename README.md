@@ -15,10 +15,10 @@ Samarbeidsområde for Helsedirektoratets arbeid med videreutvikling av referanse
 Liten grad av variasjon.  
 
 RHF1  
-![RHF1](docs/img/rhf1.png)  
+![RHF1](docs/img/RHF1.png)  
 
 RHF2  
-![RHF1](docs/img/rhf1.png)  
+![RHF2](docs/img/RHF2.png)  
 
 Fellesskap avtalespesialist  
 ![Avtalespesialist](docs/img/avtalespesialist.png)  
