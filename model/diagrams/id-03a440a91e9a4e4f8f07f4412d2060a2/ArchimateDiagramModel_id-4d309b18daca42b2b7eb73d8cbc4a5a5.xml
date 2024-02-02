@@ -60,9 +60,18 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-5cf6b0e1ac6b4eac90088e7c6923c24a.xml#id-5cf6b0e1ac6b4eac90088e7c6923c24a"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4fcd69b9266e4b89b731f3f31a8fa58b"
+        source="id-3c37077ea8474096a7251d289db46837"
+        target="id-9b28ee4b92f14badb78c457048cce6da">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-85f45b374f764323927f5eab2a7a311c.xml#id-85f45b374f764323927f5eab2a7a311c"/>
+    </sourceConnections>
     <bounds
-        x="48"
-        y="156"
+        x="120"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -84,8 +93,8 @@
           href="AccessRelationship_id-27302e24bb7445d2917d5ae0bf7bf79a.xml#id-27302e24bb7445d2917d5ae0bf7bf79a"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="276"
+        x="120"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
@@ -98,12 +107,30 @@
       targetConnections="id-a4c5e8e524c648c48e86ca33dc13b36b"
       type="1">
     <bounds
-        x="48"
-        y="396"
+        x="120"
+        y="360"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-ef15349efdfa4465aad76aafb98b71c2.xml#id-ef15349efdfa4465aad76aafb98b71c2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9b28ee4b92f14badb78c457048cce6da"
+      targetConnections="id-4fcd69b9266e4b89b731f3f31a8fa58b"
+      textPosition="1"
+      type="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="120"
+        y="24"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-05a32105631d450d83e62e10d0a5516c.xml#id-05a32105631d450d83e62e10d0a5516c"/>
   </children>
 </archimate:ArchimateDiagramModel>
