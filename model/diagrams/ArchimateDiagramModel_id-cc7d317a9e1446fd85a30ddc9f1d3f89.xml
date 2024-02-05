@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Produsent"
-    id="id-cc7d317a9e1446fd85a30ddc9f1d3f89">
+    id="id-cc7d317a9e1446fd85a30ddc9f1d3f89"
+    documentation="Modell for tjenestesammensetning produsent. Viser tjenester som brukes av rollen produsent i forbindelse med dokumentdeling.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c3a65b73797d4b9aaaee741d2b31244d"

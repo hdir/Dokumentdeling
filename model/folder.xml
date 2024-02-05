@@ -2,4 +2,5 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dokumentdeling"
     id="id-ed54bc5ad0d34e9eaeec544f73517eb6"
+    purpose="Modeller som er en del av arbeidet med å revidere og videreutvikle referanse og målarkitektur for dokumentdeling."
     version="5.0.0"/>

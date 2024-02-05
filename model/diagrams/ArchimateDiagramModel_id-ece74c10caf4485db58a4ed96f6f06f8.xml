@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Konsument"
-    id="id-ece74c10caf4485db58a4ed96f6f06f8">
+    id="id-ece74c10caf4485db58a4ed96f6f06f8"
+    documentation="Modell for tjenestesammensetning konsument. Viser tjenester som brukes av rollen konsument i forbindelse med dokumentdeling.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8c3dd14e45ed48a6bc1a52de9f2cce1b"
