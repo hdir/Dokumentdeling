@@ -33,19 +33,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6403e883f0714d43bd5b1ddf486ab458"
-      type="1">
-    <bounds
-        x="1332"
-        y="12"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:DataObject"
-        href="DataObject_id-118d527eee714f4783c7dfb284b8e130.xml#id-118d527eee714f4783c7dfb284b8e130"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-acb65009c7154bf8a8f82f465fd893c8"
       type="1">
     <sourceConnections
