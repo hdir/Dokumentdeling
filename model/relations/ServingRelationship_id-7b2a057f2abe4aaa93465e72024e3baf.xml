@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søk"
+    id="id-7b2a057f2abe4aaa93465e72024e3baf">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-a3f83ee183d748bcbb8c3bdb7822d1d2.xml#id-a3f83ee183d748bcbb8c3bdb7822d1d2"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-a026338c44e04910a9b3772807965414.xml#id-a026338c44e04910a9b3772807965414"/>
+</archimate:ServingRelationship>
