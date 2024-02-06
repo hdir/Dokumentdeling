@@ -136,6 +136,9 @@
         id="id-f82e5c37d26b47428f34b82fcf0dc7a1"
         source="id-d7188472f4504e689ce5709cc43f60ee"
         target="id-dae2d3c06dbe48b5945140a7edbba60b">
+      <features
+          name="nameVisible"
+          value="false"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-5b18591c0f59431eb83cdb8bfeef306a.xml#id-5b18591c0f59431eb83cdb8bfeef306a"/>
@@ -162,6 +165,9 @@
         id="id-59b38b8f7b6c412a979b74ddb4dd3d86"
         source="id-ed6d8ab3ac41407a89c96f69b33d1645"
         target="id-d7188472f4504e689ce5709cc43f60ee">
+      <features
+          name="nameVisible"
+          value="false"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-df1fee9e6beb4455b1b08c145712f8a1.xml#id-df1fee9e6beb4455b1b08c145712f8a1"/>
@@ -197,6 +203,9 @@
         id="id-d5a1d87beb2240b494127a258a80f9f0"
         source="id-116e139acaf34d9885554d5dfa82ae07"
         target="id-ed6d8ab3ac41407a89c96f69b33d1645">
+      <features
+          name="nameVisible"
+          value="false"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-4b629c6a41ad41779673c2f84da11034.xml#id-4b629c6a41ad41779673c2f84da11034"/>
@@ -276,6 +285,9 @@
         id="id-d807697bd1cd4eb29b0d72f69a821d9c"
         source="id-08081846db704da1a7546f78647cec3e"
         target="id-ed6d8ab3ac41407a89c96f69b33d1645">
+      <features
+          name="nameVisible"
+          value="false"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-cc4853b54d7c43db987839853ab655aa.xml#id-cc4853b54d7c43db987839853ab655aa"/>
