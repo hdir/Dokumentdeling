@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Søk"
+    id="id-476d187a19584597962b9369c675cba2">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-d7397e5ce08040d7b5e811612bc8e41b.xml#id-d7397e5ce08040d7b5e811612bc8e41b"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-fb4a461b5d53443b9202fd4e90106383.xml#id-fb4a461b5d53443b9202fd4e90106383"/>
+</archimate:TriggeringRelationship>

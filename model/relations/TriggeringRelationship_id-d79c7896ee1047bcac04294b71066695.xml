@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hent dokument"
+    id="id-d79c7896ee1047bcac04294b71066695">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-d7397e5ce08040d7b5e811612bc8e41b.xml#id-d7397e5ce08040d7b5e811612bc8e41b"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-af48a65bae8f45f9a6171629e9140d30.xml#id-af48a65bae8f45f9a6171629e9140d30"/>
+</archimate:TriggeringRelationship>
