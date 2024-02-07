@@ -268,7 +268,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9c429ed791f1426ca80a64088bcdc788"
-        targetConnections="id-cbdb3c9b4137479cb39803621c6871bc id-5f155104e129491dad639b0cad455374 id-b677cac269fe4f60a8b6d604b8bd2e9e"
+        targetConnections="id-cbdb3c9b4137479cb39803621c6871bc id-b677cac269fe4f60a8b6d604b8bd2e9e id-5f155104e129491dad639b0cad455374"
         textPosition="1">
       <features
           name="gradient"
