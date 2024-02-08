@@ -417,9 +417,6 @@
       id="id-ec7f61be0148472fb9ebda4a122facb0"
       targetConnections="id-cccb140825144ca9a7355173cd7e136a"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <bounds
         x="48"
         y="240"
