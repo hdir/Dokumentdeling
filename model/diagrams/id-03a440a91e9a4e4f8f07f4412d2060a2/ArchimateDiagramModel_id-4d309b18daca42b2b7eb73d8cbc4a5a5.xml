@@ -121,9 +121,6 @@
       targetConnections="id-4fcd69b9266e4b89b731f3f31a8fa58b"
       textPosition="1"
       type="1">
-    <features
-        name="gradient"
-        value="1"/>
     <bounds
         x="120"
         y="24"

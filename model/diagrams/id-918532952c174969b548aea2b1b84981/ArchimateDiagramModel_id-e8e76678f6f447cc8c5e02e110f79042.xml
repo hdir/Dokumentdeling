@@ -18,9 +18,6 @@
         id="id-535623f7e72e484e9f76e1e250ac6576"
         targetConnections="id-18e2d029fa334b3696b484914986f2bd id-2771eab6b95a46be98fabd9991276db4"
         textPosition="1">
-      <features
-          name="gradient"
-          value="1"/>
       <bounds
           x="130"
           y="36"

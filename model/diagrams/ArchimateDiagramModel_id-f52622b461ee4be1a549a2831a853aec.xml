@@ -314,9 +314,6 @@
         id="id-67a161d147c34cefb61bbcf889349f45"
         targetConnections="id-dbf7edbb43f94c678b9c215f35c3b6c8 id-5d1b0c6ceaad43bea387e5b2b65df14d id-9a9ced4bf9cd426f92ad4f7b7690470d"
         textPosition="1">
-      <features
-          name="gradient"
-          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-67760626dfcc41cca490de48d1e731af"

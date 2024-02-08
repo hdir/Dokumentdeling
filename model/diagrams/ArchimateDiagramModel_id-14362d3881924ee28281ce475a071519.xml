@@ -131,9 +131,6 @@
         id="id-e7bea2a2b10f4752b9f7c15d8aaecb14"
         targetConnections="id-01a02c5fa4ef4977927cbc4168513687 id-4a8f887e776b4bff9075fb269157bd10 id-03b82ae517b046c1b44d74e2ff210c70"
         textPosition="1">
-      <features
-          name="gradient"
-          value="1"/>
       <bounds
           x="24"
           y="156"

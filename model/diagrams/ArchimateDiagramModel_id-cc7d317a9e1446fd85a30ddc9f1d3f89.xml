@@ -375,9 +375,6 @@
       id="id-feaaddc9b3f04442a9b18c4ba31da50a"
       targetConnections="id-27cb187a2cae442aa0d5484c259065d6"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <bounds
         x="216"
         y="108"
@@ -392,9 +389,6 @@
       id="id-e8ae2356a1c64a3780cc89294484e451"
       targetConnections="id-cbd13f45e1a84992abff9435282e83bc"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <bounds
         x="216"
         y="324"

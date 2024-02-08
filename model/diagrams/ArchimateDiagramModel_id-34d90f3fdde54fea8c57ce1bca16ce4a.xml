@@ -266,9 +266,6 @@
         id="id-a2039b2d61a044b998f21938d3ddb490"
         targetConnections="id-b0b19ab11444436d8840b65d6f54d5c5 id-b347fe9e6db44b218250746fd0f311a4 id-fc579b18436d462ba5a227d85309c100"
         textPosition="1">
-      <features
-          name="gradient"
-          value="1"/>
       <bounds
           x="48"
           y="156"
