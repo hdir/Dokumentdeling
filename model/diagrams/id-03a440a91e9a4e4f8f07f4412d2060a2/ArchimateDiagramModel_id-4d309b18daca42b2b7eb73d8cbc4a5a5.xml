@@ -71,7 +71,7 @@
     </sourceConnections>
     <bounds
         x="120"
-        y="120"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
@@ -94,7 +94,7 @@
     </sourceConnections>
     <bounds
         x="120"
-        y="240"
+        y="360"
         width="120"
         height="55"/>
     <archimateElement
@@ -108,7 +108,7 @@
       type="1">
     <bounds
         x="120"
-        y="324"
+        y="444"
         width="120"
         height="55"/>
     <archimateElement
@@ -118,16 +118,39 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9b28ee4b92f14badb78c457048cce6da"
-      targetConnections="id-4fcd69b9266e4b89b731f3f31a8fa58b"
+      targetConnections="id-4fcd69b9266e4b89b731f3f31a8fa58b id-7a11a416bfec4c4b8c9d014092a6a65f"
       textPosition="1"
       type="1">
     <bounds
         x="120"
-        y="24"
+        y="144"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-05a32105631d450d83e62e10d0a5516c.xml#id-05a32105631d450d83e62e10d0a5516c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d8765bc60e584ae68f98652ad5dff34c"
+      textPosition="1"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7a11a416bfec4c4b8c9d014092a6a65f"
+        source="id-d8765bc60e584ae68f98652ad5dff34c"
+        target="id-9b28ee4b92f14badb78c457048cce6da">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-2b98f802d54a490889154e0deca19c01.xml#id-2b98f802d54a490889154e0deca19c01"/>
+    </sourceConnections>
+    <bounds
+        x="120"
+        y="48"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-356176d970024b69aab9519051f664f3.xml#id-356176d970024b69aab9519051f664f3"/>
   </children>
 </archimate:ArchimateDiagramModel>
