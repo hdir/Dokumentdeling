@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RHF 2"
-    id="id-34d90f3fdde54fea8c57ce1bca16ce4a">
+    id="id-34d90f3fdde54fea8c57ce1bca16ce4a"
+    documentation="Første utkast. KUN LESEVERSJON AV TEKST. Redigeres i Word-dokument for miniutredningen&#xD;&#xA;Dette konseptet tar utgangspunkt i at avtalespesialistene blir del av samarbeidsområdet til et regionalt helseforetak, eventuelt et helseforetak dersom det gjelder Helse Sør-Øst. Disse samarbeidsområdene eksisterer i dag. I disse samarbeidsområdene er dokumentregisteret en del av EPJ-systemet. I dette konseptet bruker avtalespesialistene dette registeret for å gjøre metadata om utvalgte dokumenter tilgjengelig for søk. For å gjøre selve dokumentene tilgjengelig benytter avtalespesialistene i dette konseptet dokumentlageret i sin egen EPJ.&#xD;&#xA;&#xD;&#xA;Juridisk&#xD;&#xA;Juridisk vurdering av avtale om felles dokumentregister.&#xD;&#xA;Organisatorisk&#xD;&#xA;Avtale om utvidet samarbeid&#xD;&#xA;Semantisk&#xD;&#xA;Dokumentyper, kodeverk…&#xD;&#xA;Teknisk&#xD;&#xA;Bruk av koblingspunkt og etablere dokumentregister i DIPS og dokumentlager i egen EPJ.&#xD;&#xA;API: Register Document Set-b [ITI-42] i DIPS .&#xD;&#xA;API: Retrieve Document Set [ITI-43] i egen EPJ.&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e5c7eda4bba14d65abd857e58dad5ddd"
@@ -266,9 +267,6 @@
         id="id-a2039b2d61a044b998f21938d3ddb490"
         targetConnections="id-b0b19ab11444436d8840b65d6f54d5c5 id-b347fe9e6db44b218250746fd0f311a4 id-fc579b18436d462ba5a227d85309c100"
         textPosition="1">
-      <features
-          name="gradient"
-          value="1"/>
       <bounds
           x="48"
           y="156"
@@ -420,9 +418,6 @@
       id="id-ec7f61be0148472fb9ebda4a122facb0"
       targetConnections="id-cccb140825144ca9a7355173cd7e136a"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <bounds
         x="48"
         y="240"

@@ -8,9 +8,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5d1dd8f9169a435383f9427724e4016f"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <bounds
         x="300"
         y="360"
@@ -24,9 +21,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-57f13aa74ed54100b8a0d2e0e607f9c3"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <bounds
         x="432"
         y="360"
@@ -40,9 +34,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4431f1f80f754321b60a3fa459b31f69"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <bounds
         x="564"
         y="360"
@@ -56,9 +47,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3bc4ced2b38c43b4a4f3e66b055ca10e"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <bounds
         x="696"
         y="360"
@@ -72,9 +60,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-53abd7dcc9a24bea9ff76d7adce0ce74"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <bounds
         x="300"
         y="264"
