@@ -19,7 +19,7 @@
           href="AssignmentRelationship_id-7dfc2a8762cf4cdaaa56c8252db15294.xml#id-7dfc2a8762cf4cdaaa56c8252db15294"/>
     </sourceConnections>
     <bounds
-        x="12"
+        x="72"
         y="60"
         width="120"
         height="55"/>
@@ -322,7 +322,7 @@
       targetConnections="id-2ce9ab6514a1440da8a36d68c93d2ee8"
       type="1">
     <bounds
-        x="12"
+        x="72"
         y="168"
         width="120"
         height="55"/>
