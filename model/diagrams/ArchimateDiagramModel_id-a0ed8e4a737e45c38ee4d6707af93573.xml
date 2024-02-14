@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Leverandør - alternativt view"
+    name="Leverandør"
     id="id-a0ed8e4a737e45c38ee4d6707af93573"
     documentation="Tekstforslag - første utkast - IKKE KVALITETSSIKRET. KUN LESEVERSJON AV TEKST. Redigeres i Word-dokument for miniutredningen&#xD;&#xA;Dette konseptet tar utgangspunkt i at avtalespesialistene i et RHF går sammen om å danne et samarbeidsområde. Et slikt samarbeidsområde eksisterer ikke i dag. I dette konseptet legges det opp til at samarbeidsområdet vil ha et eget dokumentregister. Avtalespesialistene vil bruke registeret for å gjøre metadata om utvalgte dokumenter tilgjengelig for søk. For å gjøre selve dokumentene tilgjengelig benytter avtalespesialistene i dette konseptet dokumentlageret i sin egen EPJ.&#xD;&#xA;&#xD;&#xA;Juridisk&#xD;&#xA;Juridisk vurdering av dokumentregister i felleskap med andre avtalespesialister i samme RHF.&#xD;&#xA;Organisatorisk&#xD;&#xA;Avtale om bruk av dokumentregister i felleskap med andre avtalespesialister i samme RHF.&#xD;&#xA;Semantisk&#xD;&#xA;Dokumentyper, kodeverk…&#x9;&#xD;&#xA;Teknisk&#xD;&#xA;Etablere koblingspunkt og dokumentregister i fellesskap.&#xD;&#xA;API: Register Document Set-b [ITI-42] mot dokumentregister i fellesskapet.&#xD;&#xA;API: Retrieve Document Set [ITI-43] i egen EPJ.&#xD;&#xA;">
   <children
@@ -134,15 +134,6 @@
         <archimateRelationship
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_id-905163c128f54adb8ab7dff1db8558cb.xml#id-905163c128f54adb8ab7dff1db8558cb"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-01c4c72079c04b82a7b0bd034fc1306b"
-          source="id-32833a5762244f139ca81c4caf7d1387"
-          target="id-1df8948f9b094dfd8f0bcbc3ee11cfdb">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-f045c58762ba40c58727a1d1eeb2721f.xml#id-f045c58762ba40c58727a1d1eeb2721f"/>
       </sourceConnections>
       <bounds
           x="24"
@@ -306,15 +297,6 @@
         id="id-7a0009a8a29e43e489533ce35632e44c"
         targetConnections="id-1340c5eee8c34c86b76fabbe87bbdd83 id-a238480158184b898b2b49b7d472718e id-56b56daaa7ad41fe977c9755277673e5"
         type="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-ef779fa25e3c4425a977635d2615c416"
-          source="id-7a0009a8a29e43e489533ce35632e44c"
-          target="id-9c0f109937004e22a155fa76adea4c53">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-7d8fbedcf7644665af7e375a9953a70f.xml#id-7d8fbedcf7644665af7e375a9953a70f"/>
-      </sourceConnections>
       <bounds
           x="32"
           y="156"
@@ -387,7 +369,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9c0f109937004e22a155fa76adea4c53"
-      targetConnections="id-94e951b70f7c4857a240b2c03b2eae5f id-ef779fa25e3c4425a977635d2615c416"
+      targetConnections="id-94e951b70f7c4857a240b2c03b2eae5f"
       type="1">
     <bounds
         x="12"
@@ -401,7 +383,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1df8948f9b094dfd8f0bcbc3ee11cfdb"
-      targetConnections="id-01c4c72079c04b82a7b0bd034fc1306b id-a2675a716d0149e2a41b35d6a1533bbc"
+      targetConnections="id-a2675a716d0149e2a41b35d6a1533bbc"
       type="1">
     <bounds
         x="1260"

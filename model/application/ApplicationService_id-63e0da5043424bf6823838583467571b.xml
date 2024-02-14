@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Konsument Gateway"
-    id="id-63e0da5043424bf6823838583467571b"/>
+    id="id-63e0da5043424bf6823838583467571b"
+    documentation="Denne må diskuteres, mønstrene vi har synliggjort i de overordnede skissene så bruker ikke konsumentene sin egen gateway for å tilby søk og visning av dokumenter (det ser ut som konsumenter alltid går via kjernejounal-api eller kjernejournal-portal for å søke etter og vise dokumenter.&#xD;&#xA;"/>

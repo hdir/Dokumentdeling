@@ -265,7 +265,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7c5e7eaf035945caa9f3cf1cd34210a5"
-        targetConnections="id-a6e5070d8e0145b19696cbdaba41c45e id-df6dcdab09604e439c90e804a81a6a9d">
+        targetConnections="id-a6e5070d8e0145b19696cbdaba41c45e">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-075e7b6b35884816b19191f54dc3aae7"
@@ -274,6 +274,15 @@
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-4d8ee9679f4f4baf8efccc07869a3c76.xml#id-4d8ee9679f4f4baf8efccc07869a3c76"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-4c05faf750314fc3b47fae1e3dae8b75"
+          source="id-7c5e7eaf035945caa9f3cf1cd34210a5"
+          target="id-104b8daf14df47639305c0456e506aa7">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-38795cf880c6464ab8673fe73b9f8eca.xml#id-38795cf880c6464ab8673fe73b9f8eca"/>
       </sourceConnections>
       <bounds
           x="24"
@@ -286,8 +295,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-16cfd96896014874914ae17d048e9d10"
-        targetConnections="id-53613be059bf45599b17499459d06a1f">
+        id="id-16cfd96896014874914ae17d048e9d10">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-187a5386f36048d5a40629fb9789beef"
@@ -335,6 +343,15 @@
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-0600e46939914df29fff45156d5c0f13.xml#id-0600e46939914df29fff45156d5c0f13"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-7b52740f1e06494daa487446980ba5ec"
+          source="id-16cfd96896014874914ae17d048e9d10"
+          target="id-104b8daf14df47639305c0456e506aa7">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-32833c01e07243b8ba19fc018329092c.xml#id-32833c01e07243b8ba19fc018329092c"/>
+      </sourceConnections>
       <bounds
           x="24"
           y="348"
@@ -373,7 +390,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-104b8daf14df47639305c0456e506aa7"
-        targetConnections="id-ac6dab7e60e6486db43a4875b0f96fb3"
+        targetConnections="id-ac6dab7e60e6486db43a4875b0f96fb3 id-7b52740f1e06494daa487446980ba5ec id-4c05faf750314fc3b47fae1e3dae8b75"
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -388,24 +405,6 @@
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-ef1f349ea36e49a79fdc8c42d5d1e1db.xml#id-ef1f349ea36e49a79fdc8c42d5d1e1db"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-53613be059bf45599b17499459d06a1f"
-          source="id-104b8daf14df47639305c0456e506aa7"
-          target="id-16cfd96896014874914ae17d048e9d10">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-61e98d8d076c4373b33e20ec516171d6.xml#id-61e98d8d076c4373b33e20ec516171d6"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-df6dcdab09604e439c90e804a81a6a9d"
-          source="id-104b8daf14df47639305c0456e506aa7"
-          target="id-7c5e7eaf035945caa9f3cf1cd34210a5">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-54bbaf3d1cb14ebcb48fce548ad479f0.xml#id-54bbaf3d1cb14ebcb48fce548ad479f0"/>
       </sourceConnections>
       <bounds
           x="24"
