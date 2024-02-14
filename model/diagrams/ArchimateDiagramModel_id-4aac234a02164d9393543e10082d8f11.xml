@@ -165,7 +165,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-bbe04e10cec0428d8663adbbd19a7b9b"
-        targetConnections="id-73a1e4937e564c5c833c6d746cadae17 id-954570b87a45447680cfb7834f058657">
+        targetConnections="id-954570b87a45447680cfb7834f058657">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-26e4c26252a04c939bd587ab23e80da3"
@@ -183,26 +183,6 @@
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-954cc14a290443529911ec819f6d53fc.xml#id-954cc14a290443529911ec819f6d53fc"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-45cbdf7eaac043beac9d47ad91875da2"
-          lineColor="#c0c0c0"
-          source="id-bbe04e10cec0428d8663adbbd19a7b9b"
-          target="id-2661f520f22349b69bbb6e0e16e60058">
-        <bendpoints
-            startX="-12"
-            startY="69"
-            endX="388"
-            endY="69"/>
-        <bendpoints
-            startX="-384"
-            startY="69"
-            endX="16"
-            endY="69"/>
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-a464f9890f744c76ba1fb78ab05f3289.xml#id-a464f9890f744c76ba1fb78ab05f3289"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -272,7 +252,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7851564b38fe49eca63c02fddc3afe48"
-        targetConnections="id-e085fafd77964d438c0bd1963ab217a6 id-5d7429af21cc4e7790e9b607608354da id-18d64b20034e47ef8271dc0e0aeffe08 id-fb353d20a3264a42814bd4e023782711"
+        targetConnections="id-e085fafd77964d438c0bd1963ab217a6 id-5d7429af21cc4e7790e9b607608354da id-fb353d20a3264a42814bd4e023782711"
         type="1">
       <bounds
           x="32"
@@ -282,53 +262,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-a026338c44e04910a9b3772807965414.xml#id-a026338c44e04910a9b3772807965414"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-2661f520f22349b69bbb6e0e16e60058"
-        targetConnections="id-45cbdf7eaac043beac9d47ad91875da2"
-        alpha="50">
-      <features
-          name="lineAlpha"
-          value="50"/>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-73a1e4937e564c5c833c6d746cadae17"
-          lineColor="#c0c0c0"
-          source="id-2661f520f22349b69bbb6e0e16e60058"
-          target="id-bbe04e10cec0428d8663adbbd19a7b9b">
-        <bendpoints
-            startX="-8"
-            startY="81"
-            endX="-408"
-            endY="81"/>
-        <bendpoints
-            startX="424"
-            startY="81"
-            endX="24"
-            endY="81"/>
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-cc915538d66e446fb9d903193774fca3.xml#id-cc915538d66e446fb9d903193774fca3"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-18d64b20034e47ef8271dc0e0aeffe08"
-          lineColor="#c0c0c0"
-          source="id-2661f520f22349b69bbb6e0e16e60058"
-          target="id-7851564b38fe49eca63c02fddc3afe48">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-0736c53e12cc4f2280ffa314cc6ae0a7.xml#id-0736c53e12cc4f2280ffa314cc6ae0a7"/>
-      </sourceConnections>
-      <bounds
-          x="32"
-          y="252"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-63e0da5043424bf6823838583467571b.xml#id-63e0da5043424bf6823838583467571b"/>
     </children>
   </children>
   <children
