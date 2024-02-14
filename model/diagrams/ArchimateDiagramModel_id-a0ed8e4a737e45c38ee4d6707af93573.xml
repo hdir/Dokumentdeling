@@ -31,6 +31,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-06699898498643e4ab2aee954d7cda90"
       name="Avtalespesialist lokalt"
+      targetConnections="id-5b849f5edd514d179688a442d3d8c768"
       textAlignment="1">
     <bounds
         x="1044"
@@ -364,6 +365,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-a400c6e579ce4c84bf63431a5a460c3d"
       name="Leverandør"
+      targetConnections="id-f0bd983d49144c8cbef53f477866d469"
       textAlignment="1"
       fillColor="#ffff80"
       alpha="100">
@@ -451,6 +453,14 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2c612394c98c4c9098556e6ecc5e11c5"
       textPosition="1">
+    <sourceConnections
+        id="id-f0bd983d49144c8cbef53f477866d469"
+        source="id-2c612394c98c4c9098556e6ecc5e11c5"
+        target="id-a400c6e579ce4c84bf63431a5a460c3d"/>
+    <sourceConnections
+        id="id-5b849f5edd514d179688a442d3d8c768"
+        source="id-2c612394c98c4c9098556e6ecc5e11c5"
+        target="id-06699898498643e4ab2aee954d7cda90"/>
     <bounds
         x="984"
         y="480"
