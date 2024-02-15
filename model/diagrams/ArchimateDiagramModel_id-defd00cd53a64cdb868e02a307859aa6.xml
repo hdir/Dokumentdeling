@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leverandør alternativ 2"
-    id="id-defd00cd53a64cdb868e02a307859aa6">
+    id="id-defd00cd53a64cdb868e02a307859aa6"
+    documentation="Tekstforslag - første utkast - IKKE KVALITETSSIKRET. KUN LESEVERSJON AV TEKST. Redigeres i Word-dokument for miniutredningen&#xD;&#xA;Dette konseptet tar utgangspunkt i at avtalespesialistene blir del av samarbeidsområdet som leverandøren av EPJ-systemet har ansvaret for. Slike samarbeidsområder eksisterer ikke i dag. I dette konseptet legges det opp til at slike samarbeidsområdet vil ha et eget dokumentregister som tilbys av EPJ-leverandøren. Det vil være leverandøren av EPJ-systemet som forvalter dette registeret. Avtalespesialistene vil bruke registeret for å gjøre metadata om utvalgte dokumenter tilgjengelig for søk. For å gjøre selve dokumentene tilgjengelig benytter avtalespesialistene i dette konseptet et felles dokumentlager i samarbeidsområdet. Dette dokumentlageret forvaltes av EPJ-leverandøren og vil være logisk adskilt for den enkelte avtalespesialist. Kun kopier av journaldokumenter som skal deles legges i dette dokumentlageret.&#xD;&#xA;&#xD;&#xA;Juridisk&#xD;&#xA;Juridisk vurdering om felles dokumentregister og felles dokumentlager hos EPJ-leverandør.&#xD;&#xA;Organisatorisk&#xD;&#xA;Avtale om bruk av felles dokumentregister og felles dokumentlager med EPJ-leverandør.&#xD;&#xA;Semantisk&#xD;&#xA;Dokumentyper, kodeverk…&#xD;&#xA;Teknisk&#xD;&#xA;Etablere felles koblingspunkt og dokumentregister og dokumentlager hos EPJ-leverandør.&#xD;&#xA;API: Register Document Set-b [ITI-42] hos EPJ-leverandør.&#xD;&#xA;API: Retrieve Document Set [ITI-43] i egen EPJ. Antakeligvis andre ITIer enn i leverandør-alternativ 1&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-160c7bc5e42141a7a12da03ab8fa4f21"

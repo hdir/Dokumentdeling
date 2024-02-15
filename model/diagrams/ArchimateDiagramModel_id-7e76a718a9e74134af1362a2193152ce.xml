@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Avtalespesialist alternativ 2"
-    id="id-7e76a718a9e74134af1362a2193152ce">
+    id="id-7e76a718a9e74134af1362a2193152ce"
+    documentation="Tekstforslag - første utkast - IKKE KVALITETSSIKRET. KUN LESEVERSJON AV TEKST. Redigeres i Word-dokument for miniutredningen&#xD;&#xA;Dette konseptet tar utgangspunkt i at avtalespesialistene i et RHF går sammen om å danne et samarbeidsområde. Et slikt samarbeidsområde eksisterer ikke i dag. I dette konseptet legges det opp til at samarbeidsområdet vil ha et eget dokumentregister som tilbys av en leverandør. Avtalespesialistene vil bruke registeret for å gjøre metadata om utvalgte dokumenter tilgjengelig for søk. For å gjøre selve dokumentene tilgjengelig benytter avtalespesialistene i dette konseptet et felles dokumentlager i samarbeidsområdet. Dette dokumentlageret forvaltes av en leverandør og vil være logisk adskilt for den enkelte avtalespesialist. Kun kopier av journaldokumenter som skal deles legges i dette dokumentlageret.&#xD;&#xA;&#xD;&#xA;Juridisk&#xD;&#xA;Juridisk vurdering av dokumentregister i felleskap med andre avtalespesialister i samme RHF.&#xD;&#xA;Organisatorisk&#xD;&#xA;Avtale om bruk av dokumentregister i felleskap med andre avtalespesialister i samme RHF.&#xD;&#xA;Semantisk&#xD;&#xA;Dokumentyper, kodeverk…&#x9;&#xD;&#xA;Teknisk&#xD;&#xA;Etablere koblingspunkt og dokumentregister i fellesskap.&#xD;&#xA;API: Register Document Set-b [ITI-42] mot dokumentregister i fellesskapet.&#xD;&#xA;API: Retrieve Document Set [ITI-43] i egen EPJ.&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-332bd22b710f46c1bcfa8ac8ce096097"
