@@ -14,6 +14,6 @@ Samarbeidsområde for Helsedirektoratets arbeid med videreutvikling av referanse
 
 ![Viewpoint](https://github.com/hdir/Dokumentdeling/blob/gh-pages/id-ed54bc5ad0d34e9eaeec544f73517eb6/images/id-cc7d317a9e1446fd85a30ddc9f1d3f89.png)
 
-## Konsept 1-5
+## Konsepter
 
 En oversikt over konseptene kan vises i [pdf rapporten](https://github.com/hdir/Dokumentdeling/blob/gh-pages/Dokumentdeling.pdf), eller på den automatisk genererte [html siden](https://hdir.github.io/Dokumentdeling/).
