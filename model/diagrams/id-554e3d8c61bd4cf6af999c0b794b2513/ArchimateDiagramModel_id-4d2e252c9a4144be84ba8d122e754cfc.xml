@@ -1,30 +1,82 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kompakt - Avtalespesialist alternativ 1"
-    id="id-65a2ae56cb30443cacaf9d49a654ac89">
+    name="Kompakt - Kommunesamarbeid alternativ 1"
+    id="id-4d2e252c9a4144be84ba8d122e754cfc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-02d364304f8142a1b3a1399515f8bd8f"
+      id="id-d419a66a952f4e91a828900c7a87e8ff"
       font="1|Segoe UI|12.0|1|WINDOWS|1|-24|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       alpha="100">
     <bounds
-        x="96"
-        y="96"
-        width="481"
+        x="108"
+        y="60"
+        width="445"
         height="337"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-b256178ffab541a583512c9152f71de9"
+        id="id-d21703a9c93d4fe79e2a996897dc8a32"
         font="1|Segoe UI|11.0|0|WINDOWS|1|-22|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
       <bounds
-          x="36"
+          x="228"
+          y="60"
+          width="193"
+          height="265"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-5a49a458b57e477f9c8eec51f61be35b"
+          textPosition="1">
+        <bounds
+            x="36"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationService"
+            href="ApplicationService_id-ccdc5f93345a4823af9f0682f4074c1d.xml#id-ccdc5f93345a4823af9f0682f4074c1d"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-f8f28fa456464834bfebf8901af0ce91"
+          textPosition="1">
+        <bounds
+            x="36"
+            y="108"
+            width="120"
+            height="61"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationService"
+            href="ApplicationService_id-60cde40680824a4b8392642cd3b67ad4.xml#id-60cde40680824a4b8392642cd3b67ad4"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-8af3a68de2b7495da39e969a37f26e42"
+          textPosition="1">
+        <bounds
+            x="36"
+            y="192"
+            width="120"
+            height="61"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationService"
+            href="ApplicationService_id-9442167b987a4f7daa388abbf5700234.xml#id-9442167b987a4f7daa388abbf5700234"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-975c8b9d12c949a3ad1fb45a80cf3479.xml#id-975c8b9d12c949a3ad1fb45a80cf3479"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-3e9b67c7a36744b6b13e86a5ae2be1de"
+        font="1|Segoe UI|11.0|0|WINDOWS|1|-22|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+      <bounds
+          x="24"
           y="60"
           width="169"
           height="265"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-a5fc2d888ae544118ac12fa22347cc9e"
+          id="id-49db8caf4f7749d9a98afe48d7466fc2"
           textPosition="1">
         <bounds
             x="24"
@@ -35,64 +87,12 @@
             xsi:type="archimate:ApplicationService"
             href="ApplicationService_id-b67ecee9f83f47deb5d6ca581618b47f.xml#id-b67ecee9f83f47deb5d6ca581618b47f"/>
       </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-48e40448235842da8e9210ee4374e83f"
-          textPosition="1">
-        <bounds
-            x="24"
-            y="180"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-51fe680682f2471686a93048ec3e2d0b.xml#id-51fe680682f2471686a93048ec3e2d0b"/>
-      </children>
       <archimateElement
           xsi:type="archimate:BusinessActor"
-          href="BusinessActor_id-8c99d2e00d7847209134db1e3e725fd7.xml#id-8c99d2e00d7847209134db1e3e725fd7"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-ce373bb83b814574878dac3b35a05420"
-        font="1|Segoe UI|11.0|0|WINDOWS|1|-22|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
-      <bounds
-          x="252"
-          y="60"
-          width="193"
-          height="265"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-799983b0d8c3447191d09f3c83a39301"
-          textPosition="1">
-        <bounds
-            x="36"
-            y="120"
-            width="120"
-            height="61"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-50ddf4182cad41e5b573dac9b6ad69f3.xml#id-50ddf4182cad41e5b573dac9b6ad69f3"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-82329422f03f4243a5f640f670e6395c"
-          textPosition="1">
-        <bounds
-            x="36"
-            y="36"
-            width="120"
-            height="61"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationService"
-            href="ApplicationService_id-3b720fe0104a44ecba8d61fbd3c060be.xml#id-3b720fe0104a44ecba8d61fbd3c060be"/>
-      </children>
-      <archimateElement
-          xsi:type="archimate:BusinessActor"
-          href="BusinessActor_id-d895ce424ba54f3cb5e07081c24e1454.xml#id-d895ce424ba54f3cb5e07081c24e1454"/>
+          href="BusinessActor_id-c2cca355057d4dad8dc93ab058127cd5.xml#id-c2cca355057d4dad8dc93ab058127cd5"/>
     </children>
     <archimateElement
         xsi:type="archimate:Contract"
-        href="Contract_id-b1f2fd23be074d0eb500f11b5b036143.xml#id-b1f2fd23be074d0eb500f11b5b036143"/>
+        href="Contract_id-8c9de17f5fd3435e9be386d5e9f0ac67.xml#id-8c9de17f5fd3435e9be386d5e9f0ac67"/>
   </children>
 </archimate:ArchimateDiagramModel>
