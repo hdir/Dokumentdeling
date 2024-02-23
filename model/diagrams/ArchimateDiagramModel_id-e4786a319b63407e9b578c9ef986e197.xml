@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avtalestruktur innad i samarbeidsområde"
+    name="Oversikt samarbeidsområde"
     id="id-e4786a319b63407e9b578c9ef986e197"
     documentation="Dette viewet er en ren gjengivelse av figur 7 i referansearkitekturen for dokumentdeling, se kap 6.5">
   <children
