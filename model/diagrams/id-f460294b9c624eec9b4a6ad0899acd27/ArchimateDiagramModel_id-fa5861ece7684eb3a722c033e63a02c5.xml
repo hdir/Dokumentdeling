@@ -11,9 +11,9 @@
       textPosition="1">
     <bounds
         x="360"
-        y="300"
+        y="324"
         width="145"
-        height="97"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Contract"
         href="Contract_id-c5ea1147ec8944a58a3b76f952cab11c.xml#id-c5ea1147ec8944a58a3b76f952cab11c"/>
@@ -138,10 +138,10 @@
       targetConnections="id-6da1532f72b34231b503359302670934 id-fa5a8ecf23e041658deba1719154eff1"
       textPosition="1">
     <bounds
-        x="373"
+        x="360"
         y="132"
-        width="120"
-        height="55"/>
+        width="145"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Contract"
         href="Contract_id-e9d89e2baf3c469ebee42127b01a0fbb.xml#id-e9d89e2baf3c469ebee42127b01a0fbb"/>

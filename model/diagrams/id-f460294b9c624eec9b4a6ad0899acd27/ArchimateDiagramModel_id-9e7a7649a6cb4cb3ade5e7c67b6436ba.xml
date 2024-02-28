@@ -10,7 +10,7 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
     <bounds
         x="342"
-        y="396"
+        y="324"
         width="156"
         height="61"/>
     <archimateElement
@@ -41,7 +41,7 @@
     </sourceConnections>
     <bounds
         x="120"
-        y="192"
+        y="120"
         width="169"
         height="265"/>
     <children
@@ -107,7 +107,7 @@
     </sourceConnections>
     <bounds
         x="552"
-        y="192"
+        y="120"
         width="300"
         height="265"/>
     <children
@@ -173,10 +173,10 @@
       targetConnections="id-b1da8a4daeb54bb89b8de929766f9a88 id-d40dd5bf5e824b14830de56bc53fb4f4"
       textPosition="1">
     <bounds
-        x="360"
-        y="192"
-        width="120"
-        height="55"/>
+        x="342"
+        y="120"
+        width="156"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:Contract"
         href="Contract_id-442e25936fd344d385e910f51a0c8f9d.xml#id-442e25936fd344d385e910f51a0c8f9d"/>

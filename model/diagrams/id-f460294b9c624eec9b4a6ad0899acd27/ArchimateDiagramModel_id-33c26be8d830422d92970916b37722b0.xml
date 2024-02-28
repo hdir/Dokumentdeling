@@ -10,10 +10,10 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textPosition="1">
     <bounds
-        x="408"
-        y="384"
+        x="372"
+        y="312"
         width="145"
-        height="97"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Contract"
         href="Contract_id-c5ea1147ec8944a58a3b76f952cab11c.xml#id-c5ea1147ec8944a58a3b76f952cab11c"/>
@@ -32,8 +32,8 @@
           href="AccessRelationship_id-ae5239e4286a41999db141489a2595a4.xml#id-ae5239e4286a41999db141489a2595a4"/>
     </sourceConnections>
     <bounds
-        x="192"
-        y="216"
+        x="156"
+        y="120"
         width="169"
         height="265"/>
     <children
@@ -80,8 +80,8 @@
           href="AccessRelationship_id-bc115227cc8a43938c8dde7e033dcf90.xml#id-bc115227cc8a43938c8dde7e033dcf90"/>
     </sourceConnections>
     <bounds
-        x="612"
-        y="216"
+        x="576"
+        y="120"
         width="192"
         height="265"/>
     <children
