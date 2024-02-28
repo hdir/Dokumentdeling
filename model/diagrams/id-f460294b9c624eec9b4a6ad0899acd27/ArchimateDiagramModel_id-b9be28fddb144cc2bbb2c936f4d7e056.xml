@@ -16,6 +16,15 @@
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-9631357695054259ba1767f14d992902.xml#id-9631357695054259ba1767f14d992902"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-818a45b3370344069f83526c0253bd40"
+        source="id-a3a4d678ef1048ca8c50e4d1bc4a5f99"
+        target="id-bb550c335a3f40b9a9f6437821ed5628">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_id-7cc3e4233f524f76933e9d7a21d161b6.xml#id-7cc3e4233f524f76933e9d7a21d161b6"/>
+    </sourceConnections>
     <bounds
         x="101"
         y="176"
@@ -63,6 +72,15 @@
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-d547ab3112f8489eab5ce985c7b581a0.xml#id-d547ab3112f8489eab5ce985c7b581a0"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e733565346964c64acfe2558d3637076"
+        source="id-7d4ac332cc154b49ab0b399a15e599c6"
+        target="id-bb550c335a3f40b9a9f6437821ed5628">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_id-8fff8e2965854aaba65de568b3fe4316.xml#id-8fff8e2965854aaba65de568b3fe4316"/>
     </sourceConnections>
     <bounds
         x="504"
@@ -113,5 +131,19 @@
     <archimateElement
         xsi:type="archimate:Contract"
         href="Contract_id-887825a4429040d1848203d381c6ef0d.xml#id-887825a4429040d1848203d381c6ef0d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bb550c335a3f40b9a9f6437821ed5628"
+      targetConnections="id-e733565346964c64acfe2558d3637076 id-818a45b3370344069f83526c0253bd40"
+      textPosition="1">
+    <bounds
+        x="311"
+        y="176"
+        width="145"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_id-e9d89e2baf3c469ebee42127b01a0fbb.xml#id-e9d89e2baf3c469ebee42127b01a0fbb"/>
   </children>
 </archimate:ArchimateDiagramModel>

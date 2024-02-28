@@ -50,7 +50,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4f39974dbbda4cee834fca38a2806843"
-      targetConnections="id-bfb7b44bac9a432bb64afb6bd7d450a2 id-02b1bc71e4014157a9301694b94669af"
+      targetConnections="id-bfb7b44bac9a432bb64afb6bd7d450a2 id-02b1bc71e4014157a9301694b94669af id-5644894b9e654511a162eb1941775249"
       textPosition="1">
     <bounds
         x="311"
@@ -145,5 +145,20 @@
     <archimateElement
         xsi:type="archimate:Contract"
         href="Contract_id-887825a4429040d1848203d381c6ef0d.xml#id-887825a4429040d1848203d381c6ef0d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-89d0f4f2fe4b4feca41d3258435200c4"
+      textAlignment="1"
+      content="Skal egentlig være §9-samarbeid?&#xD;&#xA;">
+    <sourceConnections
+        id="id-5644894b9e654511a162eb1941775249"
+        source="id-89d0f4f2fe4b4feca41d3258435200c4"
+        target="id-4f39974dbbda4cee834fca38a2806843"/>
+    <bounds
+        x="405"
+        y="64"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

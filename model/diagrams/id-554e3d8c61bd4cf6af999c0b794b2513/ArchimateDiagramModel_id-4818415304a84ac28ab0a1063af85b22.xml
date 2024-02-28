@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e135e17fbea84ee9907cc475bf766366"
-      targetConnections="id-205d8d1221d94196ad6a526ae29874cb id-e56360436af44c3f94ba8aa84010e7f1"
+      targetConnections="id-205d8d1221d94196ad6a526ae29874cb id-e56360436af44c3f94ba8aa84010e7f1 id-ca328bbb0f674dc580eb1c82a64078fe"
       textPosition="1">
     <bounds
         x="311"
@@ -145,5 +145,20 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-c2cca355057d4dad8dc93ab058127cd5.xml#id-c2cca355057d4dad8dc93ab058127cd5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0b17efe809be435b8ed30633c3359531"
+      textAlignment="1"
+      content="Skal egentlig være §9-samarbeid?&#xD;&#xA;">
+    <sourceConnections
+        id="id-ca328bbb0f674dc580eb1c82a64078fe"
+        source="id-0b17efe809be435b8ed30633c3359531"
+        target="id-e135e17fbea84ee9907cc475bf766366"/>
+    <bounds
+        x="360"
+        y="48"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
