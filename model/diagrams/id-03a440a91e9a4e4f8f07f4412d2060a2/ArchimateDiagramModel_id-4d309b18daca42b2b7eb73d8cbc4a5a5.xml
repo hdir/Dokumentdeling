@@ -119,8 +119,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9b28ee4b92f14badb78c457048cce6da"
       targetConnections="id-4fcd69b9266e4b89b731f3f31a8fa58b id-7a11a416bfec4c4b8c9d014092a6a65f"
-      textPosition="1"
-      type="1">
+      textPosition="1">
     <bounds
         x="120"
         y="144"
